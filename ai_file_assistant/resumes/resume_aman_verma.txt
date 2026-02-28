@@ -1,0 +1,16 @@
+Name: Aman Verma
+
+Experience:
+6 years Data Engineer
+
+Skills:
+Python
+Machine Learning
+Pandas
+SQL
+
+Projects:
+Stock Prediction System
+
+Education:
+B.Tech IT

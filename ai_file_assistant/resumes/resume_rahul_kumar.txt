@@ -1,0 +1,15 @@
+Name: Rahul Kumar
+
+Experience:
+4 years Software Engineer
+
+Skills:
+Python
+Django
+PostgreSQL
+
+Projects:
+Resume Parser
+
+Education:
+B.Tech
